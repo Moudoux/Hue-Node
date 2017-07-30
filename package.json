@@ -1,0 +1,25 @@
+{
+  "name": "hue-node",
+  "version": "1.0.0",
+  "description": "Node.js app to control Philips Hue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moudoux/Hue-Node.git"
+  },
+  "keywords": [
+    "Philips-Hue"
+  ],
+  "author": "Deftware",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Moudoux/Hue-Node/issues"
+  },
+  "homepage": "https://github.com/Moudoux/Hue-Node#readme",
+  "dependencies": {
+    "philips-hue": "^1.2.0"
+  }
+}
